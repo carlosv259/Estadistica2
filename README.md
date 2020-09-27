@@ -1,3 +1,3 @@
-# estadistica2
+# Estadistica2
 El presente trabajo está compuesto de dos variables "Por Atentado" y "Por Conflicto" relacionadas al fallecimiento de personas por atentados terroristas o conflictos internos en 177 paises. Ambas variables han sido extraidas de las datas colgadas por Our World In Data, siendo la variable respecto a los atentados terroristas proveniente del Global Terrorism Database, el cual es formulado por The National Consortium for the Study of Terrorism and Responses to Terrorism (START). Mientras que, por otro lado, la variable respecto a los fallecimientos por conflictos, proviene del Global Burden of Disease, realizado por el Instituto de Métricas y Evalucaión de la salud (IHME, siglas en inglés).
 Estas variables nos servirán para observar si la dimensión de asesinatos genera una percepción de amenaza, lo cual podría estar relacionado con el interés de los países observados por invertir en defensa militar.
